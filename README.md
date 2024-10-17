@@ -26,6 +26,12 @@ If you want to learn more about Quarkus, please visit its website: <https://quar
 
 このコマンドを実行後、Android Studioの画面右上に表示されている**Gradleアイコン**（**斜め左下の矢印があるもの**）をタップして、同期させること！
 
+なお、webソケットについてはこの記事を参照
+
+[今さら聞けないWebSocket ~ WebSocketとは ~ ](https://qiita.com/chihiro/items/9d280704c6eff8603389)
+
+[WebSocket 入門](https://zenn.dev/nameless_sn/articles/websocket_tutorial)
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
