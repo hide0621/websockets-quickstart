@@ -18,6 +18,14 @@ If you want to learn more about Quarkus, please visit its website: <https://quar
 
 `--gradle`はGradleをビルドツールとして使用すると言う意味
 
+## webソケットのパッケージ導入
+
+以下のコマンドを使う
+
+`quarkus extension add websockets-next`
+
+このコマンドを実行後、Android Studioの画面右上に表示されている**Gradleアイコン**（**斜め左下の矢印があるもの**）をタップして、同期させること！
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
